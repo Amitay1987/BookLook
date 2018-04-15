@@ -1,0 +1,27 @@
+@import "node_modules/font-awesome/css/font-awesome.css";
+hr {
+    width: 50%;
+}
+i{
+    align:"center";
+}
+h1{
+    align:"center";
+}
+#left{
+    padding-left: 358px;
+}
+.div_container{
+    padding-top: 50px;
+}
+#ISBN{
+    padding-left: 358px;
+}
+#input{
+    padding-left: 358px;
+}
+#btn{
+    margin-top: 20px;
+    margin-left: 375px;
+    height:40px ;
+}
