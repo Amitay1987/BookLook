@@ -1,27 +1,44 @@
 @import "node_modules/font-awesome/css/font-awesome.css";
+#title h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#writer{
+    font-size: 20px;
+    font-weight: bold;
+}
+
 hr {
-    width: 50%;
+    width: 100%;
+    margin-left: 0px;
 }
-i{
-    align:"center";
-}
-h1{
-    align:"center";
-}
-#left{
-    padding-left: 358px;
-}
+
 .div_container{
     padding-top: 50px;
 }
-#ISBN{
-    padding-left: 358px;
+
+input{
+    margin-top: 15px;
+    display: inline-block;
 }
-#input{
-    padding-left: 358px;
+
+.custom-select{
+    display: inline-block;
+    width: 30%;
 }
+
 #btn{
-    margin-top: 20px;
-    margin-left: 375px;
-    height:40px ;
+    margin-top: 11px;
+}
+.submit-fields{
+    margin-top: 15px;
+}
+#list_books{
+    display: inline-block;
+    float: right;
+    margin-right: 20px;
+}
+#checkbox{
+    margin-top: 16px;
 }
